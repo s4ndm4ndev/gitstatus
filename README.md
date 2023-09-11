@@ -1,3 +1,5 @@
+## Don's fork this. Please fork the original repor by jstrieb.
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
